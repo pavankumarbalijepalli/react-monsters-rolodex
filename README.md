@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project doubles as a annoying trigger for my phone as a push notification when someone creates an issue. Fastest way to get my reply. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
